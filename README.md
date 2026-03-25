@@ -17,9 +17,9 @@
 - Logging / Monitoring / Incident Analysis
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izonejangwonyoung&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izonejangwonyoung&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=izonejangwonyoung)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kr-ericshim&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-ericshim&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=kr-ericshim)
 
 ## 🏆 Community
 <a href="https://www.abuseipdb.com/user/194225">
@@ -27,4 +27,4 @@
 </a>
 
 ## 📫 Contact
-- GitHub: [@izonejangwonyoung](https://github.com/izonejangwonyoung)
+- GitHub: [@izonejangwonyoung](https://github.com/kr-ericshim)
