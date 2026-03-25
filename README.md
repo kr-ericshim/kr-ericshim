@@ -1,18 +1,30 @@
-### Hi there 👋 I'm eric shim
-<a href="https://www.abuseipdb.com/user/194225" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/194225.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+# Hi there 👋 I'm Eric Shim
+
+
+## 🛠 Tech Stack
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?logoColor=white)
+
+## 🚨 Security / Infra Interests
+- Network Security
+- Honeypots
+- Threat Intelligence
+- Reverse Proxy / TLS / Web Security
+- Logging / Monitoring / Incident Analysis
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izonejangwonyoung&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izonejangwonyoung&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=izonejangwonyoung)
+
+## 🏆 Community
+<a href="https://www.abuseipdb.com/user/194225">
+  <img src="https://www.abuseipdb.com/contributor/194225.svg" width="401" alt="AbuseIPDB Contributor Badge">
 </a>
-<!--
-**izonejangwonyoung/izonejangwonyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- GitHub: [@izonejangwonyoung](https://github.com/izonejangwonyoung)
